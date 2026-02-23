@@ -17,7 +17,7 @@ README.md file to full-on project specs, issue tracking, wiki pages, project-spe
 
 > Almost entirely using **open-source** and **free tools**.
 
-> Even the LLMs used could be **free ones**; we've looked at that.
+> Even the LLMs used could be **free ones**; "we've" *looked at that*.
 
 > In Biology, which is foundational to life itself ... it's not the **size** of the tool. It's ***how you use it***.
 
