@@ -4,7 +4,7 @@
 
 These repos are being push-mirrored from a locally-hosted Gitea instance.
 
-Most of these projects are "in-development", and "actively" being worked on by GNOMATIX's team of top-tier killbots.
+Most of these projects are "in-development", and "actively" being worked on by GNOMATIX's team of ***top-tier killbots***.
 
 "We're" using git-crypt in some cases here to protect some ideas that are maybe new; ideas are one of the few things we have left that we don't have to pay a monthly service fee to have access to.
 
