@@ -24,7 +24,7 @@ Some of these projects started with a **simple one-page README.md file**, and we
 
 - 👏 Almost entirely using **open-source** and **free tools**.
   - [ 🛟 Production quality & easily deployable on consumer-grade hardware. ]
-  - 
+  
 - 😮 Even the LLMs used could be **free** & **self-hosted**.
   - [ ✔️ "We've" *looked at that* !!! ]
 
