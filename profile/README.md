@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Welcome to the GNOMATIX Repo Github Mirrors
 
 These repos are being push-mirrored from a locally-hosted Gitea instance.
