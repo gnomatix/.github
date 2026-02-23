@@ -18,7 +18,7 @@ Some of these projects started with a **simple one-page README.md file**, and we
 
 [In the normal half-assed "Agile" "fake it 'til you make it" way that "certain people" have been developing software since around ~2005; behavior clearly "baked into" the "mindset" of *most* current "Frontier Models".]
 
-README.md file to full-on project specs, issue tracking, wiki pages, project-specific SOPs informed by org-specific project docs; working prototype, web pages, pushed to public repo.
+***README.md file to full-on project specs, issue tracking, wiki pages, project-specific SOPs informed by org-specific project docs; working prototype, web pages, pushed to public repo.***
 
 #### ...As of last week, in ***half a day***.
 
